@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>index.html</loc>
+<lastmod>2023-12-1</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>kontakt.html</loc>
+<lastmod>2023-12-1</lastmod>
+<changefreq>monthly</changefreq>
+<priority>2</priority>
+</url>
+<url>
+<loc>galerija.html</loc>
+<lastmod>2023-12-1</lastmod>
+<changefreq>monthly</changefreq>
+<priority>2</priority>
+</url>
+<url>
+<loc>o-autoru.html</loc>
+<lastmod>2023-12-1</lastmod>
+<changefreq>monthly</changefreq>
+<priority>2</priority>
+</url>
+</urlset>
